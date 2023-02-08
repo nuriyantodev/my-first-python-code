@@ -1,6 +1,6 @@
 Team member
-Nuri
-Dwi
-Naura
-nafisah
-Zalfa
+Leader : Nuri
+Sub Leader : Dwi
+QA : Naura
+Member 1 : nafisah
+Member 2 : Zalfa
