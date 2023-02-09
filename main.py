@@ -1,12 +1,17 @@
 """
 This is my first project with python
 """
-print("Hello World")
-print("My name is nuriyanto")
 
 # Percabangan if
-tall = 170
-if tall >170:
-    print("high")
+jumlah_susu = 0
+jumlah_telur = 7
+print(f"Jumlah susu {jumlah_susu} botol")
+print(f"Jumlah telur {jumlah_telur} butir")
+if jumlah_susu >1:
+    #print("Anak membeli 1 botol susu")
+    if jumlah_telur >6:
+        print("Anak membeli 1 botol susu dan 6 butir telur")
+    else:
+        print("Anak membeli 1 botol susu saja")
 else:
-    print("low")
+    print("anak tidak membeli susu dan telur")
